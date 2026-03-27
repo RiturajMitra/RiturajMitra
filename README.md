@@ -1,6 +1,31 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rituraj%20Mitra&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=RiturajMItra">
+    <img src="https://komarev.com/ghpvc/?username=RiturajMItra&label=Profile%20views&color=00FFFF&style=flat-square" alt="RiturajMItra's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
+
+## 🧠 My Focus Areas
+- Backend Development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/RiturajMItra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiturajMItra&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="RiturajMItra's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=RiturajMItra&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="RiturajMItra's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=RiturajMItra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rituraj Mitra's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=RiturajMItra&theme=tokyonight&radius=10" alt="RiturajMItra's Activity Graph" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -21,6 +46,12 @@
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/RiturajMItra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RiturajMItra&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/rituraj-mitra-53480532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918272934733" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mitrarituraj000@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
