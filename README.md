@@ -10,6 +10,7 @@
 
 ## 🧠 My Focus Areas
 - Backend Development
+- AIML
 
 
 ## 📊 GitHub Stats & Trophies
